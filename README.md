@@ -1,2 +1,2 @@
-# Lighting-project
-Quick group project
+# Templating
+
