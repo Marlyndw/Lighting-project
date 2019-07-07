@@ -1,0 +1,12 @@
+<html>
+
+<ol>
+    {& for page in pages &}        
+    <li><a href="{{ page.product }}">{{ content }}</a></li>
+    <li><a href="{{ resume }}">Resume</a></li>
+    <li><a href="{{ bio }}">Bio</a></li>
+    # <a href="{{page.output_file_name}}">{{page.title}}</a>
+    {% endif %}
+</ol>
+
+</html>

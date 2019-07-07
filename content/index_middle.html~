@@ -1,0 +1,15 @@
+<!-- Bio -->
+
+ <img src="../img/IMG_20190520_120944.jpg" alt="" />
+
+  <section id="bio">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h2 class="lead text-white">Bio</h2>
+          <p class="lead text-white">Aspiring software developer; my background is in mechanical engineering. I started my career in the utility industry as a QA engineer validating natural gas assets for PG&E, from there I transitioned over to the project management space as a project engineer overseeing million dollar projects. Continuing my work in project management space as a contracted field engineer for PG&E I ran 5 crews and managed their annual budget. Currently I’m a project management in the construction development space, looking to make a transition to softeare. It's very clear that software is the future.</p>
+          
+        </div>
+      </div>
+    </div>
+  </section>

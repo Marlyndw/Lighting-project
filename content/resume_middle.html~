@@ -1,0 +1,17 @@
+<!-- Resume -->
+
+  <section id="resume">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h2>Resume</h2>
+          <p class="lead"> Please see the link to my resume</p>
+          
+          <a href="https://drive.google.com/open?id=1saukKhepHrt2jw5x2uqDzRh3LRmI_irV">Resume</a>
+          
+          
+          
+        </div>
+      </div>
+    </div>
+  </section>
